@@ -1,0 +1,10 @@
+1,The Alchemist,Paulo Coelho,$5,3
+2,Song of Solomon,Toni Morrison,$10,3
+3,Gilead,Marilynne Robinson,$15,6
+4,Elevation,Stephen King,$15,7
+5,Ghost Wall,Sarah Moss,$4,24
+6,War and Peace,Leo Tolstoy,$14,8
+7,East of Eden,John Steinbeck,$9,6
+8,Mortal Engines,Philip Reeve,$11,6
+9,The Kite Runner,Khaled Hosseini,$13,8
+10,On the Road,Jack Kerouac,$10,14
